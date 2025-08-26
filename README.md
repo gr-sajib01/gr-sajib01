@@ -1,12 +1,12 @@
-![logo](https://github.com/Simanto-Ratul/Simanto-Ratul/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi there! 👋 I'm Simanto Saha.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Simanto-Ratul&label=Profile%20views&color=0e75b6&style=flat" alt="Simanto-Ratul" /> </p>
+
+<h1 align="center">Hi there! 👋 I'm MD GOLAM RABBANI SAJIB.</h1>
+
 <h3 align="center">I'm studing Computer Science and Engineering at American International University - Bangladesh and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.</h3>
 <img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
  - 🌱 I’m currently learning **C, C++, Java, HTML and many other coding languages.**
 
-- 📫 How to reach me **sahasimanto.828@gmail.com**
+- 📫 How to reach me **grsajib600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,5 @@
 <br> 
 
 <div>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Simanto-Ratul&show_icons=true&locale=en&layout=compact" alt="Simanto-Ratul" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr-sajib01&show_icons=true&locale=en&layout=compact" alt="" /></p>
 </div>

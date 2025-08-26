@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! 👋 I'm MD GOLAM RABBANI SAJIB.</h1>
 
-<h3 align="center">I'm studing Computer Science and Engineering at American International University - Bangladesh and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.</h3>
+<h3 align="center">I’m pursuing Data Science at American International University – Bangladesh (AIUB), driven by a passion for transforming ideas into impactful solutions through code. I enjoy tackling challenging problems, creating innovative projects, and exploring new ways to push the limits of technology.</h3>
 <img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
  - 🌱 I’m currently learning **C, C++, Java, HTML and many other coding languages.**
@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/simanto-saha-269064345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simanto saha" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/15kHEpW9mW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simanto saha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_simanto_saha?igsh=MWpwc2h0cWJ0dWp2aA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_simanto_saha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/golam-rabbani-sajib-7319aa293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gr-sajib01/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Golam Rabbani Sajib" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.sajib.122568" target="blank"><img align="center" src="https://raw.githubusercontent.com/gr-sajib01/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md.Sajib" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gr_._sajib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gr-sajib01/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gr_._sajib" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

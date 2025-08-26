@@ -1,58 +1,110 @@
-<!-- ![My Photo](https://github.com/Md-Tanvir2034/Md-Tanvir2034/blob/main/WhatsApp%20Image%202025-02-25%20at%2022.20.51_af7f9886.jpg) -->
-<!-- Animated Typing Headline -->  
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+MD.+GOLAM+RABBANI+SAJIB + samu;" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sajib - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo">S</div> <!-- You can replace with your own logo image -->
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
 
-![](https://komarev.com/ghpvc/?username=your-github-gr-sajib01&abbreviated=true&color=blueviolet)
-<!--## My Coding Activity
-[![wakatime](https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg)](https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e) -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <div class="hero-image-wrapper">
+                <img src="profile.jpg" alt="Sajib" class="hero-image">
+            </div>
+            <div class="hero-text">
+                <h1>Sajib</h1>
+                <p class="subtitle">Computer Science And Engineering Student & Aspiring Software Engineer</p>
+                <div class="cta-buttons">
+                    <a href="#contact" class="cta-primary">Get in Touch</a>
+                    <a href="#about" class="cta-secondary">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>I am a passionate Computer Science student dedicated to becoming a skilled software engineer. My journey in programming began with mastering C, C++, and Java, and I'm continuously expanding my knowledge by learning new and powerful programming languages.</p>
+                    <p>I combine my technical skills with a strong work ethic to create innovative solutions and contribute to the ever-evolving world of technology.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2>Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <i class="fas fa-code"></i>
+                    <h3>C/C++</h3>
+                    <p>Proficient in system programming and algorithms</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fab fa-java"></i>
+                    <h3>Java</h3>
+                    <p>Object-oriented programming and application development</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-laptop-code"></i>
+                    <h3>Web Development</h3>
+                    <p>HTML, CSS, JavaScript</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Get in Touch</h2>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-phone"></i>
+                        <p>+880 1919444828</p>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <p>your.email@example.com</p> <!-- Replace with your real email -->
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <p>Boalmari, Faridpur, Bangladesh</p>
+                    </div>
+                </div>
+                <div class="social-links">
+                    <a href="https://github.com/gr-sajib01" target="_blank" class="social-icon"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/" target="_blank" class="social-icon"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/" target="_blank" class="social-icon"><i class="fab fa-facebook"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Sajib. All rights reserved.</p>
+        </div>
+    </footer>
 
-
-## 🚀 What I'm Learning
-
-- 
-- 
-
-## 🎯 My Vision
-
--
-
-## 📫 Let's Connect
-
-- **Gmail:** [mdtanvirmahmud3.1416@gmail.com](mailto:mdtanvirmahmud3.1416@gmail.com)
-- **LinkedIn:** [Md. Tanvir Mahmud](https://www.linkedin.com/in/md-tanvir-m-325824231)
-- **Facebook:** [Md. Tanvir Mahmud](https://www.facebook.com/mdtanvir.mahmud.9828)
-
----
-
-🚀 *Still learning, still growing...*
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gr-sajib01&theme=radical" alt="GitHub Streak"/>
-</p>
-
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gr-sajib01&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📈 Github stats:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gr-sajib01&show_icons=true&theme=radical">
-    </td>
-  </tr>
-</table>
-
----
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gr-sajib01&theme=tokyonight">
-
-[![wakatime](https://wakatime.com/badge/user/YOUR-ID.svg)](https://wakatime.com/gr-sajib01)
-
-
-<!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=dark) -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -52,4 +52,7 @@
 ---
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gr-sajib01&theme=tokyonight">
 
+[![wakatime](https://wakatime.com/badge/user/YOUR-ID.svg)](https://wakatime.com/gr-sajib01)
+
+
 <!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=dark) -->
